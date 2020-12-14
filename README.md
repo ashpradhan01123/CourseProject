@@ -1,6 +1,8 @@
 # CourseProject
 Please install the Educational Web as mentioned below from the CS410 Repository and then overwrite the two python scripts (app.py and model.py) from our project repository. The git push from the original repo was showing an error when we were trying to bring in the entire code. We have tested the code using Python 3.6. 
 
+Please let us know if you need a demo or require any assistance installing the code in your local machine for testing.
+
  EducationalWeb Installation Steps
 
 The following instructions have been tested with Python2.7 on Linux and MacOS
