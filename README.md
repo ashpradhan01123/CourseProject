@@ -1,5 +1,5 @@
 # CourseProject
-Please install the Educational Web as mentioned below and then overwrite the two python scripts (app.py and model.py) in this repository.
+Please install the Educational Web as mentioned below and then overwrite the two python scripts (app.py and model.py) from this repository.
  
  EducationalWeb
 
